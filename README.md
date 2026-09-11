@@ -2,7 +2,6 @@
 
 > A curated and organized collection of resources related to **Assembly-Language**.
 
-**Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
 
 # Assembly-Language
 
@@ -22,7 +21,6 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
   </a>
   
-  # 💰 You can help me by Donating
   
 > Learn Assembly Language basics: x86/x64 examples, low-level programming, performance optimization, and hardware interaction. Perfect for beginners and enthusiasts.
 
