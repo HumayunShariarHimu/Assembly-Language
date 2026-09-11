@@ -20,23 +20,18 @@ Based in Bangladesh
 
 > A curated and organized collection of resources related to **Assembly-Language**.
 
-**Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
+**Humayun Shariar Himu**  
+A Passionated Psychologist & Tech Lover!  
+Based in Bangladesh  
+[GitHub Profile](https://github.com/HumayunShariarHimu)
 
 # Assembly-Language
 
-# Connect With Me:
+> A curated and organized collection of resources related to **Assembly-Language**.
 
-<div align="left">
-  </a>
-  </a>
-  </a>
-  </a>
-  </a>
-  </a>
-  
-  # 💰 You can help me by Donating
-  
-> Learn Assembly Language basics: x86/x64 examples, low-level programming, performance optimization, and hardware interaction. Perfect for beginners and enthusiasts.
+**Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
+
+# Assembly-Language
 
 # Assembly Language
 
